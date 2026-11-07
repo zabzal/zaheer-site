@@ -1,0 +1,7 @@
+{
+  "name": "zabzal-site",
+  "image": "ghcr.io/sofcase/devbox-prime:0.2.0",
+  "runArgs": [
+    "--network=host"
+  ]
+}
